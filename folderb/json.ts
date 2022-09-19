@@ -1,2 +1,2 @@
-const file = require('./file_cae53a0802b305c3cdd5a1123d55bd5826e1df29.json')
+const file = require('./file_1af19fa2b192d64bee04946c9428df71840a2323.json')
 export default file
